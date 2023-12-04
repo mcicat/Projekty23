@@ -1,0 +1,9 @@
+[submodule "Kelemen"]
+	path = Kelemen
+	url = https://github.com/TomasK124/Z-po-tov-projekt.git
+[submodule "Strba"]
+	path = Strba
+	url = https://github.com/xstrba06/Piskvorky
+[submodule "ZarnovicanSevcik"]
+	path = ZarnovicanSevcik
+	url = https://github.com/muzikantANDY/Offline-Casino-Zarnovican---Sevcik-
