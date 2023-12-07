@@ -7,3 +7,75 @@
 [submodule "ZarnovicanSevcik"]
 	path = ZarnovicanSevcik
 	url = https://github.com/muzikantANDY/Offline-Casino-Zarnovican---Sevcik-
+[submodule "Abel"]
+	path = Abel
+	url = https://github.com/MartinAbelos/Elektronik_ukolovnik/
+[submodule "OutrataMusil"]
+	path = OutrataMusil
+	url = https://github.com/Matyas24Cz/Rezervacni_system
+[submodule "NeuzilFoltyn"]
+	path = NeuzilFoltyn
+	url = https://github.com/Vojtech02/NewRepo/
+[submodule "PomklaRehacek"]
+	path = PomklaRehacek
+	url = https://github.com/FankySs/Project-tanks
+[submodule "LogrMajor"]
+	path = LogrMajor
+	url = https://github.com/TECHNICKER/2048
+[submodule "Hrobak"]
+	path = Hrobak
+	url = https://github.com/lukashrobak/Sudoku_projekt/
+[submodule "PlasirybaProchazka"]
+	path = PlasirybaProchazka
+	url = https://github.com/Adam46813/Projekt-statisticka-kalkulacka/
+[submodule "KudlacOlbrecht"]
+	path = KudlacOlbrecht
+	url = https://github.com/DominikKudlac/projekt
+[submodule "Paul"]
+	path = Paul
+	url = https://github.com/Dominik334/projetkmatice
+[submodule "GlierDuba"]
+	path = GlierDuba
+	url = https://github.com/sexyklobaska/Sudoku_duba_glier/
+[submodule "Jelinek"]
+	path = Jelinek
+	url = https://github.com/Jelinet02/matrixcalculator
+[submodule "HolanBezdicek"]
+	path = HolanBezdicek
+	url = https://github.com/karelbezdicek/Hadgame.git
+[submodule "KollaHerbig"]
+	path = KollaHerbig
+	url = https://github.com/MichalH69/ProjektZapocetKalkulackaVed/
+[submodule "HlavacekJurecka"]
+	path = HlavacekJurecka
+	url = https://github.com/TyrexPepicek/Hlavacek-Jurecka---Adventure-Game.git
+[submodule "Grunwald"]
+	path = Grunwald
+	url = https://github.com/martin-grunwald/Mozkovna-revival.git
+[submodule "Jilek"]
+	path = Jilek
+	url = https://github.com/m257215/257215_projekt_maticova_kalkulacka.git
+[submodule "Novotny"]
+	path = Novotny
+	url = https://github.com/DavidMichaelNovotny/2048
+[submodule "Sabela"]
+	path = Sabela
+	url = https://github.com/JiriSabela/HRA2048
+[submodule "ZaloudekSmid"]
+	path = ZaloudekSmid
+	url = https://github.com/Martiinek26/Projekt-programovani.git
+[submodule "SiraSabo"]
+	path = SiraSabo
+	url = https://github.com/oliversira/solverquiz
+[submodule "StepanovaSatny"]
+	path = StepanovaSatny
+	url = https://github.com/hanastepanova/Sudoku_hra/
+[submodule "SaprykaVrba"]
+	path = SaprykaVrba
+	url = https://github.com/SemyonTheQABeginner/minyOtDungeonMaster
+[submodule "SyristeTvrz"]
+	path = SyristeTvrz
+	url = https://github.com/ondsyri/Zaverecny_projekt_Syriste_Tvrz
+[submodule "FoltynNeuzil"]
+	path = FoltynNeuzil
+	url = https://github.com/Vojtech02/NewRepo
