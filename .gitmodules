@@ -79,3 +79,6 @@
 [submodule "FoltynNeuzil"]
 	path = FoltynNeuzil
 	url = https://github.com/Vojtech02/NewRepo
+[submodule "PopelkaKylian"]
+	path = PopelkaKylian
+	url = https://github.com/tompopcacz/Tic-tac-toe
